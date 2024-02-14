@@ -40,6 +40,7 @@ export default defineConfig({
             singelton(S, 'Contact Options', 'contactOptions'),
             S.documentTypeListItem('footerLinks').title('Footer Links'),
             S.documentTypeListItem('fuelType').title('Fuel Type'),
+            S.documentTypeListItem('pages').title('Pages'),
           ]),
     }),
     visionTool(),

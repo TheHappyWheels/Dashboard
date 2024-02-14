@@ -11,9 +11,9 @@ export default {
     {name: 'showTwitterLink', type: 'boolean', title: 'Show Twitter Link'},
     {name: 'pinterestLink', type: 'url', title: 'Pinterest Link'},
     {name: 'showPinterestLink', type: 'boolean', title: 'Show Pinterest Link'},
-    {name: 'phone', type: 'url', title: 'Phone Number'},
+    {name: 'phone', type: 'string', title: 'Phone Number'},
     {name: 'showPhoneLink', type: 'boolean', title: 'Show Phone Number'},
-    {name: 'email', type: 'url', title: 'Email'},
+    {name: 'email', type: 'string', title: 'Email'},
     {name: 'showEmailLink', type: 'boolean', title: 'Show Email'},
   ],
 }

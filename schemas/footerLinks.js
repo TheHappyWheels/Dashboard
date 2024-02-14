@@ -4,6 +4,6 @@ export default {
   title: 'Footer Links',
   fields: [
     {name: 'title', type: 'string', title: 'Title'},
-    {name: 'link', type: 'url', title: 'Link'},
+    {name: 'link', type: 'string', title: 'Link'},
   ],
 }
