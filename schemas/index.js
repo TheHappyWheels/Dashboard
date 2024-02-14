@@ -7,6 +7,7 @@ import transitionTypes from './transitionTypes'
 import driveTrainTypes from './driveTrainTypes'
 import cars from './cars'
 import fuelType from './fuelType'
+import pages from './pages'
 
 export const schemaTypes = [
   cars,
@@ -18,4 +19,5 @@ export const schemaTypes = [
   driveTrainTypes,
   transitionTypes,
   fuelType,
+  pages,
 ]
